@@ -1,6 +1,6 @@
 # Subdomain
 
-Simpile tool to find subdomains 
+Simple tool to find subdomains 
 
 run setup : sudo bash setup.sh
 
