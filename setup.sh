@@ -18,7 +18,7 @@ fi
 
 echo "${yellow}[!] Running installation script . Do not interrupt the process [!]"
 
-# dependencies
+# libs
 apt-get install python3-requests -yy
 apt-get install -y python3-urllib3 -yy
 apt-get install python3 -yy
