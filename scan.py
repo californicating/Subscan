@@ -62,7 +62,7 @@ def banner():
 ███████║╚██████╔╝██████╔╝███████║╚██████╗██║  ██║██║ ╚████║
 ╚══════╝ ╚═════╝ ╚═════╝ ╚══════╝ ╚═════╝╚═╝  ╚═╝╚═╝  ╚═══╝
     """)
-    print(colors.fgRed+"Developed by @bl4nk3r")
+    print(colors.fgRed+"Developed by @atmcoder")
     print(colors.fgGreen+"Version "+str(version))
     print("")
 
