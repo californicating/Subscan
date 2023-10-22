@@ -1,6 +1,7 @@
-![subdomain](https://github.com/californicating/Subdomain/assets/96727508/8d70f41c-c014-481b-9ad7-8c4cf12019ae)
 
-Simple tool to find subdomains 
+Simple tool to find subdomains
+![subscan](https://github.com/californicating/Subscan/assets/96727508/84c4c7a0-4cdd-4ce9-95f6-8187d7fcdd11)
+
 
 run setup : sudo bash setup.sh
 
