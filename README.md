@@ -4,8 +4,8 @@ Simple tool to find subdomains
 
 run setup : sudo bash setup.sh
 
-Get domains 
+Get domains :
 sudo python3 scan.py --domain domain_name 
 
-Get domains and save output to a txt file 
+Get domains and save output to a txt file :
 sudo python3 scan.py --domain domain_name --output output.txt
